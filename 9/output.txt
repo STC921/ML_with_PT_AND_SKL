@@ -1,0 +1,240 @@
+Running with 1 threads
+N  = 2000 
+Mat-Mat time  = 0.306797 [sec.] 
+ 52151.728188 [MFLOPS] 
+OK! 
+Running with 2 threads
+N  = 2000 
+Mat-Mat time  = 0.165818 [sec.] 
+ 96491.089331 [MFLOPS] 
+OK! 
+Running with 3 threads
+N  = 2000 
+Mat-Mat time  = 0.109427 [sec.] 
+ 146215.745426 [MFLOPS] 
+OK! 
+Running with 4 threads
+N  = 2000 
+Mat-Mat time  = 0.079364 [sec.] 
+ 201601.497692 [MFLOPS] 
+OK! 
+Running with 5 threads
+N  = 2000 
+Mat-Mat time  = 0.066960 [sec.] 
+ 238947.627469 [MFLOPS] 
+OK! 
+Running with 6 threads
+N  = 2000 
+Mat-Mat time  = 0.055479 [sec.] 
+ 288397.981232 [MFLOPS] 
+OK! 
+Running with 7 threads
+N  = 2000 
+Mat-Mat time  = 0.051457 [sec.] 
+ 310937.722808 [MFLOPS] 
+OK! 
+Running with 8 threads
+N  = 2000 
+Mat-Mat time  = 0.044721 [sec.] 
+ 357772.151757 [MFLOPS] 
+OK! 
+Running with 9 threads
+N  = 2000 
+Mat-Mat time  = 0.041957 [sec.] 
+ 381346.432276 [MFLOPS] 
+OK! 
+Running with 10 threads
+N  = 2000 
+Mat-Mat time  = 0.040145 [sec.] 
+ 398558.616959 [MFLOPS] 
+OK! 
+Running with 11 threads
+N  = 2000 
+Mat-Mat time  = 0.037988 [sec.] 
+ 421184.526612 [MFLOPS] 
+OK! 
+Running with 12 threads
+N  = 2000 
+Mat-Mat time  = 0.034760 [sec.] 
+ 460295.751221 [MFLOPS] 
+OK! 
+Running with 13 threads
+N  = 2000 
+Mat-Mat time  = 0.034199 [sec.] 
+ 467848.148842 [MFLOPS] 
+OK! 
+Running with 14 threads
+N  = 2000 
+Mat-Mat time  = 0.033086 [sec.] 
+ 483594.663180 [MFLOPS] 
+OK! 
+Running with 15 threads
+N  = 2000 
+Mat-Mat time  = 0.033083 [sec.] 
+ 483631.774151 [MFLOPS] 
+OK! 
+Running with 16 threads
+N  = 2000 
+Mat-Mat time  = 0.031579 [sec.] 
+ 506665.509329 [MFLOPS] 
+OK! 
+Running with 17 threads
+N  = 2000 
+Mat-Mat time  = 0.031327 [sec.] 
+ 510740.547742 [MFLOPS] 
+OK! 
+Running with 18 threads
+N  = 2000 
+Mat-Mat time  = 0.030512 [sec.] 
+ 524387.971059 [MFLOPS] 
+OK! 
+Running with 19 threads
+N  = 2000 
+Mat-Mat time  = 0.029912 [sec.] 
+ 534907.400659 [MFLOPS] 
+OK! 
+Running with 20 threads
+N  = 2000 
+Mat-Mat time  = 0.029363 [sec.] 
+ 544904.559113 [MFLOPS] 
+OK! 
+Running with 21 threads
+N  = 2000 
+Mat-Mat time  = 0.029338 [sec.] 
+ 545372.433131 [MFLOPS] 
+OK! 
+Running with 22 threads
+N  = 2000 
+Mat-Mat time  = 0.029121 [sec.] 
+ 549428.284304 [MFLOPS] 
+OK! 
+Running with 23 threads
+N  = 2000 
+Mat-Mat time  = 0.029250 [sec.] 
+ 547012.646118 [MFLOPS] 
+OK! 
+Running with 24 threads
+N  = 2000 
+Mat-Mat time  = 0.027942 [sec.] 
+ 572609.568792 [MFLOPS] 
+OK! 
+Running with 25 threads
+N  = 2000 
+Mat-Mat time  = 0.027903 [sec.] 
+ 573419.162085 [MFLOPS] 
+OK! 
+Running with 26 threads
+N  = 2000 
+Mat-Mat time  = 0.027905 [sec.] 
+ 573368.811182 [MFLOPS] 
+OK! 
+Running with 27 threads
+N  = 2000 
+Mat-Mat time  = 0.028009 [sec.] 
+ 571252.702008 [MFLOPS] 
+OK! 
+Running with 28 threads
+N  = 2000 
+Mat-Mat time  = 0.027793 [sec.] 
+ 575685.557216 [MFLOPS] 
+OK! 
+Running with 29 threads
+N  = 2000 
+Mat-Mat time  = 0.028136 [sec.] 
+ 568659.398893 [MFLOPS] 
+OK! 
+Running with 30 threads
+N  = 2000 
+Mat-Mat time  = 0.027736 [sec.] 
+ 576869.066111 [MFLOPS] 
+OK! 
+Running with 31 threads
+N  = 2000 
+Mat-Mat time  = 0.027949 [sec.] 
+ 572464.519642 [MFLOPS] 
+OK! 
+Running with 32 threads
+N  = 2000 
+Mat-Mat time  = 0.028426 [sec.] 
+ 562864.578698 [MFLOPS] 
+OK! 
+Running with 33 threads
+N  = 2000 
+Mat-Mat time  = 0.028379 [sec.] 
+ 563800.156986 [MFLOPS] 
+OK! 
+Running with 34 threads
+N  = 2000 
+Mat-Mat time  = 0.028734 [sec.] 
+ 556830.266697 [MFLOPS] 
+OK! 
+Running with 35 threads
+N  = 2000 
+Mat-Mat time  = 0.029022 [sec.] 
+ 551297.364811 [MFLOPS] 
+OK! 
+Running with 36 threads
+N  = 2000 
+Mat-Mat time  = 0.028949 [sec.] 
+ 552702.434164 [MFLOPS] 
+OK! 
+Running with 37 threads
+N  = 2000 
+Mat-Mat time  = 0.028466 [sec.] 
+ 562073.074244 [MFLOPS] 
+OK! 
+Running with 38 threads
+N  = 2000 
+Mat-Mat time  = 0.029905 [sec.] 
+ 535022.942756 [MFLOPS] 
+OK! 
+Running with 39 threads
+N  = 2000 
+Mat-Mat time  = 0.029322 [sec.] 
+ 545657.914222 [MFLOPS] 
+OK! 
+Running with 40 threads
+N  = 2000 
+Mat-Mat time  = 0.029208 [sec.] 
+ 547801.119257 [MFLOPS] 
+OK! 
+Running with 41 threads
+N  = 2000 
+Mat-Mat time  = 0.030294 [sec.] 
+ 528161.236126 [MFLOPS] 
+OK! 
+Running with 42 threads
+N  = 2000 
+Mat-Mat time  = 0.030352 [sec.] 
+ 527146.573270 [MFLOPS] 
+OK! 
+Running with 43 threads
+N  = 2000 
+Mat-Mat time  = 0.029771 [sec.] 
+ 537427.098663 [MFLOPS] 
+OK! 
+Running with 44 threads
+N  = 2000 
+Mat-Mat time  = 0.029470 [sec.] 
+ 542915.976003 [MFLOPS] 
+OK! 
+Running with 45 threads
+N  = 2000 
+Mat-Mat time  = 0.030353 [sec.] 
+ 527125.207028 [MFLOPS] 
+OK! 
+Running with 46 threads
+N  = 2000 
+Mat-Mat time  = 0.030538 [sec.] 
+ 523935.325395 [MFLOPS] 
+OK! 
+Running with 47 threads
+N  = 2000 
+Mat-Mat time  = 0.031184 [sec.] 
+ 513078.362028 [MFLOPS] 
+OK! 
+Running with 48 threads
+N  = 2000 
+Mat-Mat time  = 0.031032 [sec.] 
+ 515604.776866 [MFLOPS] 
+OK! 
